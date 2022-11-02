@@ -1,7 +1,7 @@
 # Library-Books-with-google-api
 Library Books with Search Using Google Books API Flutter App
 
-in this video tutorial you will learn:
+# in this tutorial you will learn:
 How to build a beautiful Library App Using Google Books API with Flutter 
 • build book apps with professional UI
 • build beautiful book details page 
@@ -14,14 +14,14 @@ How to build a beautiful Library App Using Google Books API with Flutter
 • use sqflite database
 • navbar button with animation
 
-video tutorial
+# video tutorial
 https://studio.youtube.com/video/RAOPZHaM1VA/edit
 
-Book Reference:
+# Book Reference:
 https://www.perlego.com/book/2554817/pragmatic-flutter-building-crossplatform-mobile-apps-for-android-ios-web-desktop-pdf
 
-#if you want source code :
-please subscribe in my channel and contact me with my email:
+# if you want source code :
+please subscribe in my channel and send me the link of video to my Email:
 brhomapps@gmail.com
 
 Our site :
